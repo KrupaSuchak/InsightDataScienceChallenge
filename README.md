@@ -1,3 +1,9 @@
+# Information about my code (format, methods and libraries used).
+# Used libraries: json, datetime, time, numpy, and collections.
+# Made a graph by converting the data into a default dictionary. Key: 'target' and Values: ('actor', time). 
+# Calculated edges from the length of the values. 
+# Compiled and sorted edges to find the rolling median within a 60 second data frame. 
+
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
